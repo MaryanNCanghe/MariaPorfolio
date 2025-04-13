@@ -1,0 +1,50 @@
+@media (max-width: 640px) {
+    /* Make the card smaller on small devices */
+    .tilt-card {
+      width: 90%;
+      max-width: 280px;
+      padding: 16px;
+    }
+  
+    /* Reduce image height for small screens */
+    .tilt-card img {
+      height: 180px;
+    }
+  
+    /* Adjust title font size */
+    .tilt-card h3 {
+      font-size: 20px;
+    }
+  
+    /* Adjust paragraph text size */
+    .tilt-card p {
+      font-size: 12px;
+    }
+  
+    /* Reduce button size */
+    .black-gradient {
+      width: 36px !important;
+      height: 36px !important;
+    }
+  }
+  /* For works section container */
+.works-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  @media (max-width: 768px) {
+    /* Works section for small screens */
+    .works-container {
+      padding: 0 20px; /* Ensure padding fits well on mobile */
+      justify-content: flex-start; /* Align projects from top */
+    }
+  
+    .works-container .project-card {
+      width: 100% !important; /* Full width for mobile */
+      margin-bottom: 20px;
+    }
+  }
+  
