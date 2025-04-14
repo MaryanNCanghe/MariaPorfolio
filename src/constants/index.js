@@ -285,26 +285,27 @@ import {
             source_code_link: "https://maryanncanghe.github.io/Danis-Barber-Smoke/",
           },
           {
-            name: "3D-TShirt",
+            name: "IICAROS",
             description:
-              "An interactive 3D T-shirt customization tool, leveraging Next.js, Tailwind CSS, and APIs to offer a unique and engaging user experience. Download or clone the repository to see the project",
+              "A web company app for showcasing futuristic tools to deliver a seamless user experience.",
             tags: [
               {
-                name: "nextjs",
+                name: "CSS3",
                 color: "blue-text-gradient",
               },
               {
-                name: "API",
+                name: "JavaScript",
                 color: "green-text-gradient",
               },
               {
-                name: "Express",
+                name: "HTML",
                 color: "pink-text-gradient",
               },
             ],
-            image:shirt,
-            source_code_link: "https://github.com/MaryanNCanghe/3D-Shirt",
+            image: iicaros,
+            source_code_link: "https://maryanncanghe.github.io/ICAROS/",
           },
+         
           {
             name: "Keyline",
             description:
@@ -368,26 +369,27 @@ import {
             image: car,
             source_code_link: "https://carrent-omega.vercel.app/",
           },
+          
           {
-            name: "IICAROS",
+            name: "3D-TShirt",
             description:
-              "A web company app for showcasing futuristic tools to deliver a seamless user experience.",
+              "An interactive 3D T-shirt customization tool, leveraging Next.js, Tailwind CSS, and APIs to offer a unique and engaging user experience. Download or clone the repository to see the project",
             tags: [
               {
-                name: "CSS3",
+                name: "nextjs",
                 color: "blue-text-gradient",
               },
               {
-                name: "JavaScript",
+                name: "API",
                 color: "green-text-gradient",
               },
               {
-                name: "HTML",
+                name: "Express",
                 color: "pink-text-gradient",
               },
             ],
-            image: iicaros,
-            source_code_link: "https://maryanncanghe.github.io/ICAROS/",
+            image:shirt,
+            source_code_link: "https://github.com/MaryanNCanghe/3D-Shirt",
           },
           
           
