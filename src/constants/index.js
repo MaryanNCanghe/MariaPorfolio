@@ -240,7 +240,7 @@ import {
                 },
             ],
             image: macrolab,
-            source_code_link: "https://maryanncanghe.github.io/Macro-Lab/",
+            source_code_link: "https://maryanncanghe.github.io/MacroLab/",
           },
           {
             name: "L'Art ",

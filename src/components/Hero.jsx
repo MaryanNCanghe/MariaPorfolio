@@ -24,13 +24,13 @@ const Hero = () => {
             <br className='sm:block hidden' />
           </p>
           <div className="mt-10">
-  <a  download="MARIA CV" href="MARIA N´CANGHE CV.pdf" className="btn bg-black  text-white px-4 py-2 rounded hover:bg-[#FEFAEO] mt-20 ">Download CV</a>
+  
 </div>
 <div className="flex space-x-4 mt-7">
-  <a href="https://www.linkedin.com/in/maria-n-canghe-77232a27a/" className=" text-[#fcdce5] hover:text-[#F2F3E0] ">
+  <a href="https://www.linkedin.com/in/maria-n-canha-77232a27a/" className=" text-[#fcdce5] hover:text-[#F2F3E0] ">
     <i className="fa-brands fa-linkedin fa-2x"></i>
   </a>
-  <a href="https://www.instagram.com/__maryancanghe/?hl=pt" className="text-[#fcdce5] hover:text-[#F2F3E0]">
+  <a href="https://www.instagram.com/_maryancanghe/" className="text-[#fcdce5] hover:text-[#F2F3E0]">
     <i className="fa-brands fa-square-instagram fa-2x"></i>
   </a>
   <a href="https://github.com/MaryanNCanghe" className="text-[#fcdce5] hover:text-[#F2F3E0]">
